@@ -1,4 +1,4 @@
-﻿GEOID10_Tract,Tract Pop,geo_pr_white,geo_pr_black,geo_pr_aian,geo_pr_api,geo_pr_mult,geo_pr_hispanic,here,here_given_white,here_given_black,here_given_aian,here_given_api,here_given_mult,here_given_hispanic
+﻿GEOID10_Tract,Tract Pop,geo_pr_white,geo_pr_black,geo_pr_aian,geo_pr_api,geo_pr_multi,geo_pr_hispanic,here,here_given_white,here_given_black,here_given_aian,here_given_api,here_given_multi,here_given_hispanic
 55001950100,2585,0.982591876,0.001160542,0.003481625,0.004642166,0.00270793,0.005415861,0.000594595,0.000676211,1.27649E-05,0.000260994,0.000134606,0.000213454,7.00624E-05
 55001950201,1164,0.975945017,0.00257732,0.004295533,0.000859107,0.003436426,0.012886598,0.00026774,0.000302431,1.27649E-05,0.000144997,1.12172E-05,0.000121974,7.50668E-05
 55001950202,2295,0.961220044,0.003050109,0.003485839,0.006535948,0.006100218,0.019607843,0.00052789,0.000587292,2.97847E-05,0.000231994,0.000168258,0.000426908,0.0002252
